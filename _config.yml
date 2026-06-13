@@ -63,6 +63,17 @@ Notes:
 berkeley_theme_options:
   show_logo_in_sidebar: true
 
+# External navigation links
+nav_external_links:
+  - title: "📖 Course Notes"
+    url: https://data6.org/notes/
+    hide_icon: false # set to true to *hide* the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+  - title: "&#x1F40D; Python Reference"
+    url: https://data6.org/notes/reference
+    hide_icon: false # set to true to *hide* the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
