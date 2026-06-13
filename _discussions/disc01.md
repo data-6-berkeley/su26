@@ -11,14 +11,3 @@ links:
     - name: Discussion 1 Handout
       url: https://drive.google.com/file/d/1rl5TLpZde5dx15b806IXHqU4NIgZxWli/view
 ---
-
-<!-- 1. TOC
-{:toc}
-
-## Q1: Sample Question
-
-{% include questions/sample_question.md %}
-
-## Q2: Another Question
-
-{% include questions/another_question.md %} -->

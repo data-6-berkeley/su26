@@ -7,13 +7,3 @@ submission_files:
     - ants.py
 ---
 
-1. TOC
-{:toc}
-
-## Q1: Sample Question
-
-{% include questions/sample_question.md %}
-
-## Q2: Another Question
-
-{% include questions/another_question.md %}
