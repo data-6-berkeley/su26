@@ -21,8 +21,8 @@
 lectures:
   - slug: intro
     readings:
-      - title: Introduction
-        link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
+      # - title: Introduction
+      #   link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
   - slug: 2
     readings: 
       - title: Causality and Experiments
