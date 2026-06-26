@@ -13,10 +13,14 @@
 # link overrides the default link to the lab page from the collection if 
 # you provided a slug or provides an external link
 labs:
-  - slug: lab01
-  - title: Lab 2
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - title: Lab 3
-  - skip: true
-  - title: Lab 4
-  - title: Lab 5
+  - title: Using Jupyter Notebooks
+    # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+  - title: Python Names
+  - title: Print, Arrays, and Tables
+  - title: San Francisco Food Safety
+  - title: Introduction to Visualization Methods
+  - title: Grouping, Pivoting, and Joining
+  - title: Functions and Conditionals
+  - title: Iteration
+  - title: APIs, Prompt Engineering
+  - title: TF-IDF, Cohen's Kappa, Macro F1
