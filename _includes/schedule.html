@@ -411,7 +411,7 @@
 
                             {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
                             {%- unless hw_due_entry.nonumber -%}
-                                <strong class="label label-homework">Homework-due</strong>
+                                <strong class="label label-homework">Homework Due</strong>
                                 {%- assign homework_due_number = homework_due_number | plus: 1 -%}
                             {%- endunless -%}
 
@@ -482,6 +482,11 @@
                 {%- assign extra_date = extra.date | date: "%Y-%m-%d" -%}
                 {%- if extra_date == current_date -%}
                     <div class="syllabus-item" style="margin-bottom: 8px;">
+                        {%- if extra.label and extra.label != "none" -%}
+                            <strong class="label label-{{ extra.label }}">
+                            {{ extra.label | capitalize }}
+                            </strong>
+                        {%- endif -%}
                         {%- if extra.link -%}
                             <a href="{{ extra.link }}">{{ extra.title }}</a>
                         {%- else -%}
