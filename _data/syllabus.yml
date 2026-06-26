@@ -4,13 +4,13 @@
 
 # Set start_date to the Monday of the first week of instruction.
 # Set end_date to the Friday of exams week.
-start_date: 2026-07-06
-end_date: 2026-08-14
+start_date: "2026-07-06"
+end_date: "2026-08-14"
 
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
-  - date: 2026-08-14
+  - date: "2026-08-14"
     title: Final Exam
     label: exam
 
@@ -42,7 +42,6 @@ extra_links_col3:
 # For example, for a semester with MWF lectures, put ['1', '3', '5'].
 # For example, for a summer semester, put ['1', '2', '3', '4'].
 class_days: ['1', '2', '3', '4']
-discussion_days: ['5']
 lab_days: ['2', '4']
 hw_days: ['2', '4']
 hw_due_days: ['3', '5']
@@ -54,7 +53,7 @@ quiz_days: ['3']
 # assignment is numbered HW1 instead.
 # You may not need all of these. 
 starting_lecture_number: '1'
-starting_discussion_number: '0'
+starting_discussion_number: '1'
 starting_homework_number: '1'
 starting_lab_number: '1'
 starting_project_number: '1'

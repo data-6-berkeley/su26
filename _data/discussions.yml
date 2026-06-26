@@ -1,4 +1,8 @@
 ### DISCUSSION ORDERING ###
+# this has been adjusted from the template because data 6 typically releases
+# multiple discussions on the same day. instead of imputing the date for each 
+# discussion, a date will be explicitly set and used, as in the case of projects.
+
 # each entry requires either a 'slug' or a 'title' field
 
 # use the slug if you utilize the _discussions collection. this will take info
@@ -7,16 +11,26 @@
 # if you use the _discussions collection, the title field will be useful for
 # one-off overrides like holidays or for placeholders; use the title field sparingly
 
-# nonumber supresses the label and numbering for the discussion entry
-# skip: true will omit the discussion from the schedule entirely
-
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  - title: Discussion 0
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - slug: disc01
-  - title: Discussion 2
-  - skip: true
-  - title: Discussion 3
-  - title: Discussion 4
+  - slug: wmd
+    date: 2026-07-10
+  - slug: docs
+    date: 2026-07-10
+  - slug: quiz-1
+    date: 2026-07-17
+  - slug: tables-variables
+    date: 2026-07-17
+  - slug: gini-coef
+    date: 2026-07-24
+  - slug: viz-alg-bias
+    date: 2026-07-24
+  - slug: control
+    date: 2026-07-31
+  - slug: ethics
+    date: 2026-07-31
+  - slug: llms
+    date: 2026-08-07
+  - slug: tf-idf
+    date: 2026-08-07

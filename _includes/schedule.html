@@ -1,9 +1,7 @@
-<!-- Inspired heavily by the CS 161 template -->
-
 {%- comment -%}
   - This file auto-generates the schedule with all the days of the semester.
   - You should not need to touch anything in here unless you're rewriting
-  the website; all configuration variables can be changed in the _data folder.
+  - the website; all configuration variables can be changed in the _data folder.
 {%- endcomment -%}
 
 {%- comment -%}
@@ -21,7 +19,7 @@
   {%- assign date = days_epoch | times: seconds_in_day -%}
   {%- assign day_of_week = date | date: '%w' -%}
   
-  {%- comment -%} 
+  {%- comment -%}  
     Gather the days to show on the calendar based on lecture, discussion,
     lab, and homework days defined in _data/syllabus.yml.
   {%- endcomment -%}
@@ -55,7 +53,6 @@
 
 {%- comment -%} counters {%- endcomment -%}
 {%- assign lecture_index = 0 -%}
-{%- assign discussion_index = 0 -%}
 {%- assign lab_index = 0 -%}
 {%- assign homework_index = 0 -%}
 {%- assign homework_due_index = 0 -%}
@@ -132,7 +129,7 @@
                                         {%- assign lecture_obj = l -%}
                                         {%- break -%}
                                     {%- endif -%}
-                                {%- endfor -%}
+                                  {%- endfor -%}
                             {%- endif -%}
 
                             {%- comment -%} 2. DETERMINE TITLE, LINK, AND RELEASE DATE {%- endcomment -%}
@@ -225,16 +222,16 @@
                 {%- endif -%}
             {%- endif -%}
 
-            {%- comment -%} --- DISCUSSION LOGIC --- {%- endcomment -%}
-            {%- if site.data.syllabus.discussion_days contains day_of_week -%}
-                {%- assign disc_entry = site.data.discussions.discussions[discussion_index] -%}
+            {%- comment -%} --- DISCUSSION LOGIC (Date-Driven & Collection Slug Compatible) --- {%- endcomment -%}
+            {%- for disc_entry in site.data.discussions.discussions -%}
+                {%- assign disc_date = disc_entry.date | date: "%Y-%m-%d" -%}
                 
-                {%- if disc_entry -%}
+                {%- if disc_date == current_date -%}
                     {%- unless disc_entry.skip -%}
                         <div class="syllabus-item" style="margin-bottom: 4px;">
                             {%- assign disc_obj = nil -%}
                             
-                            {%- comment -%} 1. FIND THE OBJECT (If slug exists) {%- endcomment -%}
+                            {%- comment -%} 1. FIND THE OBJECT FROM COLLECTION (If slug exists) {%- endcomment -%}
                             {%- if disc_entry.slug -%}
                                 {%- assign target_slug = disc_entry.slug | append: "" -%}
                                 {%- for d in site.discussions -%}
@@ -270,11 +267,8 @@
                             {%- endif -%}
                         </div>
                     {%- endunless -%}
-
-                    {%- comment -%} 5. ALWAYS INCREMENT INDEX {%- endcomment -%}
-                    {%- assign discussion_index = discussion_index | plus: 1 -%}
                 {%- endif -%}
-            {%- endif -%}
+            {%- endfor -%}
 
             {%- comment -%} --- LAB LOGIC --- {%- endcomment -%}
             {%- if site.data.syllabus.lab_days contains day_of_week -%}
@@ -411,7 +405,7 @@
 
                             {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
                             {%- unless hw_due_entry.nonumber -%}
-                                <strong class="label label-homework">Homework Due</strong>
+                                <strong class="label label-homework">Homework-due</strong>
                                 {%- assign homework_due_number = homework_due_number | plus: 1 -%}
                             {%- endunless -%}
 
@@ -482,11 +476,6 @@
                 {%- assign extra_date = extra.date | date: "%Y-%m-%d" -%}
                 {%- if extra_date == current_date -%}
                     <div class="syllabus-item" style="margin-bottom: 8px;">
-                        {%- if extra.label and extra.label != "none" -%}
-                            <strong class="label label-{{ extra.label }}">
-                            {{ extra.label | capitalize }}
-                            </strong>
-                        {%- endif -%}
                         {%- if extra.link -%}
                             <a href="{{ extra.link }}">{{ extra.title }}</a>
                         {%- else -%}
