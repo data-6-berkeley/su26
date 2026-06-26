@@ -20,30 +20,48 @@
 
 lectures:
   - slug: intro
-    readings:
+    # readings:
       # - title: Introduction
       #   link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
-  - slug: 2
-    readings: 
-      - title: Causality and Experiments
-        link: https://inferentialthinking.com/chapters/02/causality-and-experiments/index.html
-  - slug: "03"
+  - slug: eval-names-data-types
+    # readings: 
+    #   - title: Causality and Experiments
+    #     link: https://inferentialthinking.com/chapters/02/causality-and-experiments/index.html
+  - slug: numpy
+    # readings:
+    #   - links: 
+    #       - text: "Programming in Python"
+    #         url: "https://inferentialthinking.com/chapters/03/programming-in-python/"
+    #       - text: "Data Types"
+    #         url: "https://inferentialthinking.com/chapters/04/data-types/"
+  - slug: tables-1
     readings:
-      - links: 
-          - text: "Programming in Python"
-            url: "https://inferentialthinking.com/chapters/03/programming-in-python/"
-          - text: "Data Types"
-            url: "https://inferentialthinking.com/chapters/04/data-types/"
-  - slug: "04"
-  - slug: "05"
-  - slug: "06"
-  - slug: "07"
-  # - skip: true
-  - slug: "08"
-  - title: "No Lecture"
-    nonumber: true
-    # link: "https://registrar.berkeley.edu/wp-content/uploads/UCB_AcademicCalendar_2025-26.pdf"
-  - slug: "09"
-  - slug: "10"
-  - slug: "11"
-
+      - title: Algorithmic Bias (due 7/15)
+  - slug: tables-2
+  - slug: functions
+  - skip: true # quiz 1
+  - slug: guest
+    readings:
+      - title: Research, Measurement (due 7/22)
+  - slug: populations-hist-summary-stats
+  - slug: measurements
+  - slug: row-methods-join-group
+  - slug: pivot-join
+    readings:
+      - title: Visualizations (due 7/29)
+  - slug: control
+  - slug: review
+  - skip: true # quiz 2
+  - slug: file-formats
+    readings:
+      - title: LLMs (due 8/5)
+  - slug: guest-2
+  - slug: qual-coding
+  - slug: llm-nlp
+  - slug: llm-2
+    readings:
+      - title: "What's Next? (due 8/12)"
+  - slug: randomness-simulation
+  - slug: guest-3
+  - slug: review-2
+  - slug: conclusion
