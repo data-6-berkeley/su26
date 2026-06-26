@@ -39,8 +39,8 @@ lectures:
       - title: Algorithmic Bias (due 7/15)
   - slug: tables-2
   - slug: functions
-  - skip: true # quiz 1
-  - slug: guest
+  - slug: intro-viz
+  - slug: guest-1
     readings:
       - title: Research, Measurement (due 7/22)
   - slug: populations-hist-summary-stats
@@ -51,7 +51,7 @@ lectures:
       - title: Visualizations (due 7/29)
   - slug: control
   - slug: review
-  - skip: true # quiz 2
+  - slug: higher-order-functions
   - slug: file-formats
     readings:
       - title: LLMs (due 8/5)

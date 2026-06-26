@@ -18,5 +18,5 @@ homework:
   - title: Arrays and Table Fundamentals
   - title: Visualizations
   - title: Functions, Algorithms, and Measurements 
-  # - title: Education, Admissions, and Simpson’s Paradox
+  - skip: true
   - title: Functions and Conditionals
