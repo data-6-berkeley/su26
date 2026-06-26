@@ -4,6 +4,11 @@
 # they also implemented lab-due functionality
 homework-due:
   - skip: true
-  - title: "HW 1"
-  - title: "Homework 2"
-  - title: "Homework 3"
+  - skip: true
+  - title: Introduction to Python 
+  - title: Arrays and Table Fundamentals
+  - title: Visualizations
+  - title: Functions, Algorithms, and Measurements
+  - skip: true
+  - title: Functions and Conditionals
+  - title: Education, Admissions, and Simpson’s Paradox

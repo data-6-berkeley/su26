@@ -13,11 +13,10 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - slug: hw01
-  - title: Homework 2
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - title: Homework 3
-  - skip: true
-  - title: Homework 4
-  - title: Homework 5
-  - title: Homework 6
+  - title: Introduction to Python 
+    # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+  - title: Arrays and Table Fundamentals
+  - title: Visualizations
+  - title: Functions, Algorithms, and Measurements 
+  - title: Education, Admissions, and Simpson’s Paradox
+  - title: Functions and Conditionals
