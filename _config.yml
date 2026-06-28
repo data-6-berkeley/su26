@@ -73,41 +73,36 @@ nav_external_links:
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
-  google_calendar_id: 
+  google_calendar_id: c_2409797b9da8af517001463e8cb57142de0fe90415fc792d4742c59b4d166a7c@group.calendar.google.com
   # You need to make this, once per course, ideally via a SPA
   # TODO: Recommend adding link to Google cloud project here
-  google_api_key: 
+  google_api_key: AIzaSyBA4Xa8Eukp3OREzlP87aBAmHqbzycU15w
   # These are processed in order, top-to-bottom, first match applies
   # The prefix/suffix matches the Google Calendar event *title*
   # You may use only prefix OR suffix, see fullcalendar.js
   event_types:
     - suffix: Lecture
-      background_color: '9FD1FF' # Blue light
+      background_color: '8babf1' # Blue light
       text_color: '000'
       class: cal-lecture
       icon: fa-school
-    - suffix: Tea Hours
-      background_color: 'FFE88D' # gold light
+    - suffix: Instructor Tea Hours / Advising
+      background_color: 'bc8383' # magenta light
       text_color: '000'
       class: cal-tea-oh
       icon: fa-mug-hot
-    - suffix: Faculty Office Hours
-      background_color: 'FFC31B' # gold medium
+    - suffix: Instructor Office Hours
+      background_color: 'bc8383' # magenta light
       text_color: '000'
       class: cal-tea-oh
       icon: fa-person-circle-question
     - suffix: Office Hours
-      background_color: 'D9CEFF' # purple light
+      background_color: 'd59527' # light gold
       text_color: '000000'
       class: cal-oh
       icon: fa-person-circle-question
-    - suffix: Tutoring Section
-      background_color: 'FFCFE5' # rose light
-      text_color: '000000'
-      class: cal-tutoring
-      icon: fa-people-group
     - suffix: Section
-      background_color: '004AAE' # blue medium
+      background_color: '945ec1' # purple
       text_color: 'FFFFFF'
       class: cal-disc-section
       icon: fa-person-chalkboard
