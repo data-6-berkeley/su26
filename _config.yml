@@ -82,28 +82,28 @@ google_calendar:
   # You may use only prefix OR suffix, see fullcalendar.js
   event_types:
     - suffix: Lecture
-      background_color: '8babf1' # Blue light
+      background_color: 'b2d6d2' # Blue light
       text_color: '000'
       class: cal-lecture
       icon: fa-school
     - suffix: Instructor Tea Hours / Advising
-      background_color: 'bc8383' # magenta light
+      background_color: 'b9a0d0' # purple light
       text_color: '000'
       class: cal-tea-oh
       icon: fa-mug-hot
     - suffix: Instructor Office Hours
-      background_color: 'bc8383' # magenta light
+      background_color: 'b9a0d0' # purple light
       text_color: '000'
       class: cal-tea-oh
       icon: fa-person-circle-question
     - suffix: Office Hours
-      background_color: 'd59527' # light gold
-      text_color: '000000'
+      background_color: 'debc92' # light gold
+      text_color: '000'
       class: cal-oh
       icon: fa-person-circle-question
     - suffix: Section
-      background_color: '945ec1' # purple
-      text_color: 'FFFFFF'
+      background_color: 'b9e192' # purple
+      text_color: '000'
       class: cal-disc-section
       icon: fa-person-chalkboard
     - suffix: Exam
