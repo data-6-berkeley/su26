@@ -1,7 +1,7 @@
 ---
-layout: calendar_dynamic
-title: Calendar
-description: Lecture, Discussion and OH schedules
+layout: page
+title: "&#x1F4C5; Calendar"
+description: Class schedule.
 nav_order: 3
 ---
 # Calendar

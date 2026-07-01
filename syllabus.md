@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus
+title: "&#x1F4DC; Syllabus"
 description: >-
     Course policies and information.
 nav_order: 3
