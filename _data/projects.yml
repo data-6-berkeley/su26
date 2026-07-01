@@ -4,15 +4,15 @@
 # label number is optional. You can make this 
 # 1, 2, 3, etc. or A, B, C, etc. or whatever you want
 projects:
-  - title: "Education, Admissions, and Simpson’s Paradox (due 8/4)"
-    date: 2026-07-21
+  - title: "Education, Admissions, and Simpson’s Paradox (due 7/30)"
+    date: 2026-07-20
     # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
     label-number: 1
   - title: "Final Project Part A (due 8/7)"
-    date: 2026-07-30
+    date: 2026-07-29
     # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
     # label-number: 
-  - title: "Final Project Part B (due 8/11)"
-    date: 2026-08-04
+  - title: "Final Project Part B (due 8/12)"
+    date: 2026-08-03
     # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
     # label-number: 
