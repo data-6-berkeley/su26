@@ -20,9 +20,6 @@
 
 lectures:
   - slug: intro
-    # readings:
-      # - title: Introduction
-      #   link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
   - slug: eval-names-data-types
     # readings: 
     #   - title: Causality and Experiments
@@ -35,32 +32,22 @@ lectures:
     #       - text: "Data Types"
     #         url: "https://inferentialthinking.com/chapters/04/data-types/"
   - slug: tables-1
-    readings:
-      - title: Algorithmic Bias (due 7/15)
   - slug: tables-2
   - slug: functions
   - slug: intro-viz
   - slug: guest-1
-    readings:
-      - title: Research, Measurement (due 7/22)
   - slug: populations-hist-summary-stats
   - slug: measurements
   - slug: row-methods-join-group
   - slug: pivot-join
-    readings:
-      - title: Visualizations (due 7/29)
   - slug: control
   - slug: review
   - slug: higher-order-functions
   - slug: file-formats
-    readings:
-      - title: LLMs (due 8/5)
   - slug: guest-2
   - slug: qual-coding
   - slug: llm-nlp
   - slug: llm-2
-    readings:
-      - title: "What's Next? (due 8/12)"
   - slug: randomness-simulation
   - slug: guest-3
   - slug: review-2
