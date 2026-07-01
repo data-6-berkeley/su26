@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: calendar_dynamic
 title: "&#x1F4C5; Calendar"
 description: Class schedule.
 nav_order: 3
