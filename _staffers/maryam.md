@@ -4,7 +4,7 @@ role: Tutor
 email: maryam.akelyan@berkeley.edu
 pronouns:
 website: 
-# photo: 
+photo: maryam.jpg
 ---
 
-I like teaching Computer Science!
+<!-- I like teaching Computer Science! -->

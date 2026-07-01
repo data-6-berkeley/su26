@@ -2,9 +2,8 @@
 name: Abby Brooks-Ramirez
 role: Instructor
 email: a.brooks@berkeley.edu
-pronouns:
+pronouns: she/her
 website: 
-# photo: 
+photo: abby.png
 ---
-
-Bio here!
+hi hi! excited to be teaching you all this summer!

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Welcome!
-nav_exclude: true
+title: "&#x1f3e0; Home"
+description: Listing of course modules and topics.
+nav_order: 1
 permalink: /
 seo:
   type: Course
