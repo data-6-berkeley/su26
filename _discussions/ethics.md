@@ -1,6 +1,6 @@
 ---
-title: Control, Iteration, Dictionaries
-description: Navigating Ethics and Impact in Data Visualization
+title: Navigating Ethics and Impact in Data Visualization
+description: Discussion 8
 # gradescope_assignment_id: 
 # pdfs:
 #     - dis01.pdf
