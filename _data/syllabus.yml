@@ -14,19 +14,20 @@ extra_days_col2:
     title: Final Exam
     label: exam
 
-# The dates used in extra_links_col3 below must already be included on the calendar 
+# The dates used in extra_links_col3 below must already be included on the calendar
 # Use this to provide extra links in the third (reading) column
 extra_links_col3:
   - date: "2026-07-06"
     title: Pre-Semester Survey (due 7/10)
     label: survey
-  #   link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+    link: https://forms.gle/TYBzXZVyAfQctg997
   - date: "2026-07-06"
     title: Reading 1 (due 7/9)
     label: reading
   - date: "2026-07-10"
     title: Survey 1 (due 7/17)
     label: survey
+
   - date: "2026-07-10"
     title: Reading 2 (due 7/16)
     label: reading
@@ -70,7 +71,7 @@ discussion_days: ['5']
 # For example, if you set starting_homework_number to 0, then the first homework
 # assignment you create is numbered HW0. If you set it to 1, then that same
 # assignment is numbered HW1 instead.
-# You may not need all of these. 
+# You may not need all of these.
 starting_lecture_number: '1'
 starting_discussion_number: '1'
 starting_homework_number: '1'
@@ -84,4 +85,4 @@ starting_week_number: '1'
 # Fefine the width of each column in the schedule
 date_width: "12%"
 col2_width: "55%"
-col3_width: "33%" 
+col3_width: "33%"
