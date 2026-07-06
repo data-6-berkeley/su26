@@ -1,7 +1,9 @@
 ---
 published: true
-# presented_by: Lisa Yan
+presented_by: Abby Brooks-Ramirez
 title: Introduction, Course Overview, Jupyter Notebooks, Arithmetic
+files:
+    slides: https://docs.google.com/presentation/d/1EYj0Pp8osyRTw5caflk1cYd6SHlGjqh1TMWdlN9_-O4/edit?usp=sharing
 # files:
 #   slides: https://example.com
 #   pdf_slides: https://example.com

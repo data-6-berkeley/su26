@@ -126,8 +126,8 @@ Here's how we will calculate your final grade:
 | **Component** | **Weight** | **Notes** |
 | Surveys | 2.5% | 6 course surveys |
 | Lecture Attendance| 2.5% | 24 lectures, 2 drops |
-| Readings | 5% | 6 readings |
-| Discussion Attendance | 5% |Weekly discussion section|
+| Readings | 7.5% | 6 readings |
+| Discussion Attendance | 2.5% |Weekly discussion section|
 | Lab | 10% | 10 labs with 1 drop |
 | Homework | 20% |5 homework assignments, 4% each|
 | Projects | 20% | - Project 1 (8%) <br/> - Final Project (12%) |
