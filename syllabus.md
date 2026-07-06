@@ -19,7 +19,7 @@ description: >-
 
 ## About &#x1F9D0;
 
-Hi! Welcome to Data 6 Fall 2025! We’re excited to have you on board this semester. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study.
+Hi! Welcome to Data 6 Summer 2026! We’re excited to have you on board this semester. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics. Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study.
 
 ### Course Description
 <!--Data 6 is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics. This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.-->
@@ -36,10 +36,10 @@ This class serves a different purpose than several other classes that may sound 
 
 All web platforms are available on our course website: [{{site.url}}{{ site.baseurl }}/]({{site.url}}{{ site.baseurl }}/)
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found on our front page. Consult the [front page]({{site.url}}{{ site.baseurl }}/) for a schedule of course topics, assignments, and due dates. Consult the [Calendar]({{site.url}}{{ site.baseurl }}/calendar) page for the times/locations for all weekly engagements.
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found on our front page. Consult the [front page]({{site.url}}{{ site.baseurl }}/) for a schedule of course topics, assignments, and due dates. Consult the [Calendar]({{site.url}}{{ site.baseurl }}/calendar_dynamic) page for the times/locations for all weekly engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions and see announcements. The front page has a button to our [course EdStem](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion).
 
-    Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/). We expect all posts to demonstrate appropriate respect and consideration for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed. 
+    Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/). We expect all posts to demonstrate appropriate respect and consideration for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
 * **DataHub**: This is where you will complete Python assignments on Jupyter Notebooks, an interactive scientific notebook popular in data science applications and Data courses. Access via [https://datahub.berkeley.edu/](https://datahub.berkeley.edu/) or by clicking coding books on the front page.
 * **Gradescope**: This is where you will submit all assignments, including weekly reading assignments. The front page has a button to our [course Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}).
 * **Google Drive**: Lecture resources are on Google Slides (accompanied by notebooks you can access on DataHub). You will occasionally need to submit surveys via Google Forms.
@@ -47,7 +47,7 @@ All web platforms are available on our course website: [{{site.url}}{{ site.base
 
 ### Support
 
-You are not alone in this course! The staff and instructors are here to support you as you learn the material. It’s expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion), not bCourses. We will also hold in-person office hours that offer drop-in help on assignments and course material. Instructor "Tea Hours" are for advising and are also drop-in (welcome!). See our [Calendar]({{site.url}}{{ site.baseurl }}/calendar) for office hour times.
+You are not alone in this course! The staff and instructors are here to support you as you learn the material. It’s expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion), not bCourses. We will also hold in-person office hours that offer drop-in help on assignments and course material. Instructor "Tea Hours" are for advising and are also drop-in (welcome!). See our [Calendar]({{site.url}}{{ site.baseurl }}/calendar_dynamic) for office hour times.
 
 We are a much smaller course than many of the Data Science classes you may encounter at Berkeley. Use this fact to your advantage! The instructor, TAs and UCS1s are here to support you, so please lean on your course staff if you need more support in the class or have any questions/concerns.
 
@@ -80,7 +80,7 @@ You have **1 lab drop** to use in the event of extenuating circumstances that pr
 Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Tuesday evenings and due **Thursday at 11:59PM**, the evening before discussion section.
 
 ### Discussion
-Each Friday (10AM - 12PM), we will have a two hour discussion section led by your [uGSI](https://data6.org/su25/staff/#undergraduate-student-instructors-ugsis).
+Each Friday (10AM - 12PM), we will have a two hour discussion section led by your [uGSI]({{site.url}}{{ site.baseurl }}/staff).
 
 Discussions across the term will be separated into two "tracks". Social sciences and technical discussions.
 
@@ -171,7 +171,7 @@ Make a serious attempt at every assignment yourself. If you get stuck, read the 
 
 **You are not permitted to turn in answers or code that you have obtained from any generative AI tools, including but not limited to ChatGPT, Claude, and Gemini.** Not only does such copying count as academic misconduct, but it also circumvents the pedagogical goals of an assignment. You must solve problems with the resources made available in the course. You should never look at or have solutions in your possession from another student or another semester. Late in the semester, we will have an opportunity to learn how to use generative AI tools for coding _constructively_ later in the semester. Until then, please ask us questions about appropriate use and prioritize getting familiar with the code first.
 
-Please read Berkeley’s [Code of Conduct](https://sa.berkeley.edu/code-of-conduct) carefully. Penalties for academic misconduct in Data 6 are severe and include reporting to the [Center for Student Conduct](https://sa.berkeley.edu/conduct). They might also include an F in the course or even dismissal from the university. It’s just not worth it!
+Please read Berkeley’s [Code of Conduct](https://conduct.berkeley.edu/code-of-conduct/) carefully. Penalties for academic misconduct in Data 6 are severe and include reporting to the [Center for Student Conduct](https://conduct.berkeley.edu/). They might also include an F in the course or even dismissal from the university. It’s just not worth it!
 
 ## Campus Resources &#x1F3EB;
 
@@ -180,7 +180,7 @@ Since all Data 6 material is accessible online, there are no requirements in ter
 
 Here are a few helpful resources when it comes to technology:
 * Read this [Berkeley IT website](https://technology.berkeley.edu/wi-fi) to learn how to connect to the campus WiFi network, Eduroam.
-* **Device lending options**: The [Student Technology Equity Program](https://technology.berkeley.edu/STEP) provides free laptop loans for students.
+* **Device lending options**: The [Student Technology Equity Program](https://studenttech.berkeley.edu/step) provides free laptop loans for students.
 
 ### Data Science Student Climate
 [Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
