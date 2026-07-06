@@ -6,4 +6,4 @@ pronouns: she/her
 website: 
 photo: abby.png
 ---
-hi hi! excited to be teaching you all this summer!
+Hello! Excited to be teaching you all this summer!
