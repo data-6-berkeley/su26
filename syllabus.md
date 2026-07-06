@@ -77,7 +77,7 @@ You have **1 lab drop** to use in the event of extenuating circumstances that pr
 
 ### Readings
 
-Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Tuesday evenings and due **Thursday at 11:59PM**, the evening before discussion section.
+Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Friday evenings and due **Thursday at 11:59PM**, the evening before discussion section.
 
 ### Discussion
 Each Friday (10AM - 12PM), we will have a two hour discussion section led by your [uGSI]({{site.url}}{{ site.baseurl }}/staff).
