@@ -18,12 +18,13 @@ extra_days_col2:
 # Use this to provide extra links in the third (reading) column
 extra_links_col3:
   - date: "2026-07-06"
-    title: Pre-Semester Survey (due 7/10)
+    title: Welcome Survey (due 7/10)
     label: survey
     link: https://forms.gle/TYBzXZVyAfQctg997
   - date: "2026-07-06"
     title: Reading 1 (due 7/9)
     label: reading
+    link: https://www.gradescope.com/courses/1331690/assignments/8287939/review_grades
   - date: "2026-07-10"
     title: Survey 1 (due 7/17)
     label: survey

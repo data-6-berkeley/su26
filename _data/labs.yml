@@ -14,7 +14,7 @@
 # you provided a slug or provides an external link
 labs:
   - title: Using Jupyter Notebooks
-    # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Flab%2Flab01%2Flab01.ipynb&branch=main
   - title: Python Names
   - title: Print, Arrays, and Tables
   - title: San Francisco Food Safety
