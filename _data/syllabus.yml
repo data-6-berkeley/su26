@@ -28,10 +28,11 @@ extra_links_col3:
   - date: "2026-07-10"
     title: Survey 1 (due 7/17)
     label: survey
+    link: https://forms.gle/ZxzNKkjpCLnd9zvA7
   - date: "2026-07-10"
     title: Reading 2 (due 7/16)
     label: reading
-  - date: "2026-07-17"
+    link: https://www.gradescope.com/courses/1331690/assignments/8295016/
     title: Survey 2(due 7/24)
     label: survey
   - date: "2026-07-17"
