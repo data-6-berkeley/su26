@@ -1,6 +1,6 @@
 ### DISCUSSION ORDERING ###
 # this has been adjusted from the template because data 6 typically releases
-# multiple discussions on the same day. instead of imputing the date for each 
+# multiple discussions on the same day. instead of imputing the date for each
 # discussion, a date will be explicitly set and used, as in the case of projects.
 
 # each entry requires either a 'slug' or a 'title' field
@@ -11,10 +11,11 @@
 # if you use the _discussions collection, the title field will be useful for
 # one-off overrides like holidays or for placeholders; use the title field sparingly
 
-# link overrides the default link to the discussion page from the collection if 
+# link overrides the default link to the discussion page from the collection if
 # you provided a slug or provides an external link
 discussions:
   - slug: wmd
+    link: https://drive.google.com/drive/folders/1smblQuQSA7cDw1sBA9tGrmqhR34Pru25?usp=drive_link
     date: 2026-07-10
   - slug: docs
     date: 2026-07-10
