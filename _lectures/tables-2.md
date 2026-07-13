@@ -1,7 +1,7 @@
 ---
 published: true
 # presented_by: Dominic Liu
-title: Table Fundamentals II, Filtering and Boolean Predicates
+title: Filtering and Boolean Predicates and Functions
 files:
   slides: https://docs.google.com/presentation/d/18CnSMabOayxnBRB21xPpOK4U7URPWOXKsyWSJ9vqspQ/edit?usp=sharing
   pdf_slides:
