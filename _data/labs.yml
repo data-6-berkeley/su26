@@ -10,14 +10,15 @@
 # nonumber supresses the label and numbering for the lab entry
 # skip: true will omit the lab from the schedule entirely
 
-# link overrides the default link to the lab page from the collection if 
+# link overrides the default link to the lab page from the collection if
 # you provided a slug or provides an external link
 labs:
   - title: Using Jupyter Notebooks
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Flab%2Flab01%2Flab01.ipynb&branch=main
   - title: Arrays and Tables
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Flab%2Flab02%2Flab02.ipynb&branch=main
-  - title: More Tables and Quiz Review
+  - title: Quiz 1 Review
+    link: https://drive.google.com/drive/folders/1Xa8AKIQIGpWWASMx7BZoJz5PUPyCKNn4?usp=drive_link
   - title: San Francisco Food Safety
   - title: Introduction to Visualization Methods
   - title: Grouping, Pivoting, and Joining
