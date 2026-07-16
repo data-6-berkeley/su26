@@ -26,7 +26,7 @@ extra_links_col3:
     label: reading
     link: https://www.gradescope.com/courses/1331690/assignments/8287939/review_grades
   - date: "2026-07-10"
-    title: Survey 1 (due 7/17)
+    title: Week 02 Survey (due 7/17)
     label: survey
     link: https://forms.gle/ZxzNKkjpCLnd9zvA7
   - date: "2026-07-10"
@@ -34,25 +34,25 @@ extra_links_col3:
     label: reading
     link: https://www.gradescope.com/courses/1331690/assignments/8295016/
   - date: "2026-07-17"
-    title: Survey 2 (due 7/24)
+    title: Week 03 Survey (due 7/24)
     label: survey
   - date: "2026-07-17"
     title: Reading 3 (due 7/23)
     label: reading
   - date: "2026-07-24"
-    title: Survey 3 (due 7/31)
+    title: Week 04 Survey (due 7/31)
     label: survey
   - date: "2026-07-24"
     title: Reading 4 (due 7/30)
     label: reading
   - date: "2026-07-31"
-    title: Survey 4 (due 8/7)
+    title: Week 05 Survey (due 8/7)
     label: survey
   - date: "2026-07-31"
     title: Reading 5 (due 8/6)
     label: reading
   - date: "2026-08-07"
-    title: Survey 5 (due 8/13)
+    title: Week 06 Survey (due 8/13)
     label: survey
   - date: "2026-08-07"
     title: Reading 6 (due 8/13)
