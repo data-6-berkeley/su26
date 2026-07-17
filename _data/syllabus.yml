@@ -34,8 +34,9 @@ extra_links_col3:
     label: reading
     link: https://www.gradescope.com/courses/1331690/assignments/8295016/
   - date: "2026-07-17"
-    title: Week 03 Survey (due 7/24)
+    title: Week 03 Survey (due 7/20)
     label: survey
+    link: https://forms.gle/Le4KLqPdy7Bkwp9j8
   - date: "2026-07-17"
     title: Reading 3 (due 7/23)
     label: reading
