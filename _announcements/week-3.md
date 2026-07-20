@@ -1,6 +1,6 @@
 ---
-title: Week 2 Announcement
-week: 2
+title: Week 3 Announcement
+week: 3
 date: 2026-07-15
 ---
 1. Assignments Due
