@@ -1,10 +1,10 @@
 ---
 published: true
-# presented_by: Bella Crouch
-title: Guest Lecture
-# files:
-#   slides: https://docs.google.com/presentation/d/1Zmc_kokOIicNjxohASH0ulCJ2kW3s7MM4o_ja9j0Uxc/edit?usp=sharing
-#   pdf_slides:
+presented_by: Dr. Emma Pierson
+title: Guest Lecture-Dr. Emma Pierson
+files:
+  slides: https://drive.google.com/file/d/1j3Yd3HwqSLC62YmcDHO42WbZKcpbe0qz/view?usp=drive_link
+  pdf_slides:
 #   code:
 #   code_html:
 #   jupyter_notebook:
