@@ -6,7 +6,7 @@
 projects:
   - title: "Education, Admissions, and Simpson’s Paradox (due 7/30)"
     date: 2026-07-20
-    # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fproject%2Fproject1%2Fproject1.ipynb&branch=main
     label-number: 1
   - title: "Final Project Part A (due 8/7)"
     date: 2026-07-29
