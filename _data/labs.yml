@@ -21,7 +21,8 @@ labs:
     link: https://drive.google.com/drive/folders/1Xa8AKIQIGpWWASMx7BZoJz5PUPyCKNn4?usp=drive_link
   - title: San Francisco Food Safety
     link: https://docs.google.com/document/d/1N6CkqA5TSKzT2vrZHR9QkWzlln__UdYiQ51-wjLAcMA/edit?usp=sharing
-  - title: Introduction to Visualization Methods
+  - title: Data Visualizations
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Flab.lab05%2Flab05.ipynb&branch=main
   - title: Grouping, Pivoting, and Joining
   - title: Functions and Conditionals
   - title: Iteration
