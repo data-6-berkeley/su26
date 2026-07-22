@@ -22,4 +22,5 @@ homework:
   - title: Visualizations (due 7/22)
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main
   - skip: true
-  - title: Functions and Conditionals (due 7/29)
+  - skip: true
+  - title: Functions and Conditionals (due 8/3)
