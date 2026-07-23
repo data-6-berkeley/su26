@@ -8,7 +8,8 @@
 # you can also delete this file if you don't want to have any labeled weeks
 weeks:
   - title: "Introduction"
-  - skip: true
-  - title: "Pandas and API"
-  - title: "Surveys and RCTs"
-  - title: "Visualization"
+  - title: "Data and Tables"
+  - title: "Visualization and Advanced Table Methods"
+  - title: "Advanced Python"
+  - title: "LLMs"
+  - title: "Closing"
