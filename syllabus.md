@@ -113,7 +113,7 @@ There are 2 in-class quizzes and one final exam. The final exam is required for 
 
 * Quiz 1: Wednesday at 10AM, July 15th, in-class
 * Quiz 2: Wednesday at 10AM, July 29th, in-class
-* Final Exam: Friday, August 14th, time TBD
+* Final Exam: Friday at 10AM, August 14th, in-class
 
 There will not be alternate exams. All exams will be held in-person. More details about quizzes and exams will be posted ot Ed.
 
