@@ -24,8 +24,9 @@ labs:
   - title: Data Visualizations
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Flab%2Flab05%2Flab05.ipynb&branch=main
   - title: Grouping, Pivoting, and Joining
-    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Flab%2Flab06%2Flab06.ipynb&branch=main 
-  - title: Functions and Conditionals
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Flab%2Flab06%2Flab06.ipynb&branch=main
+  - title: Quiz 2 Review
+    link: https://drive.google.com/drive/folders/1n0P03PXF2bHGeE7tiFGWhniSJpgBJ3Oi?usp=drive_link
   - title: Iteration
   - title: APIs, Prompt Engineering
   - title: TF-IDF, Cohen's Kappa, Macro F1
