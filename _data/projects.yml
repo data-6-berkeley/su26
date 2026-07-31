@@ -8,9 +8,9 @@ projects:
     date: 2026-07-20
     link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fproject%2Fproject1%2Fproject1.ipynb&branch=main
     label-number: 1
-  - title: "Final Project Part A (due 8/7)"
-    date: 2026-07-29
-    # link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+  - title: "Final Project Part A (due 8/6)"
+    date: 2026-07-30
+    link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su26&urlpath=tree%2Fmaterials-su26%2Fproject%2Fproject_final%2Fproject_final_partA.ipynb&branch=main
     # label-number: 
   - title: "Final Project Part B (due 8/12)"
     date: 2026-08-03
