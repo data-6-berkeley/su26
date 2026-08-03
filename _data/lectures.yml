@@ -19,36 +19,36 @@
 # providing the readings field.
 
 lectures:
-  - slug: intro
-  - slug: eval-names-data-types
+  - slug: 01-intro
+  - slug: 02-names
     # readings: 
     #   - title: Causality and Experiments
     #     link: https://inferentialthinking.com/chapters/02/causality-and-experiments/index.html
-  - slug: numpy
+  - slug: 03-numpy
     # readings:
     #   - links: 
     #       - text: "Programming in Python"
     #         url: "https://inferentialthinking.com/chapters/03/programming-in-python/"
     #       - text: "Data Types"
     #         url: "https://inferentialthinking.com/chapters/04/data-types/"
-  - slug: tables-1
-  - slug: tables-2
-  - slug: functions
-  - slug: intro-viz
-  - slug: guest-1
-  - slug: populations-hist-summary-stats
-  - slug: measurements
-  - slug: row-methods-join-group
-  - slug: pivot-join
-  - slug: control
-  - slug: review
-  - slug: higher-order-functions
-  - slug: file-formats
-  - slug: guest-2
-  - slug: qual-coding
-  - slug: llm-nlp
-  - slug: llm-2
-  - slug: randomness-simulation
-  - slug: guest-3
-  - slug: review-2
-  - slug: conclusion
+  - slug: 04-tables
+  - slug: 05-filtering
+  - slug: 06-scope
+  - slug: 07-visualizations
+  - slug: 08-guest1
+  - slug: 09-histograms
+  - slug: 10-measurements
+  - slug: 11-conditionals
+  - slug: 12-pivot
+  - slug: 13-control
+  - slug: 14-beautifulsoup
+  - slug: 15-css
+  - slug: 16-dictionaries
+  - slug: 17-guest2
+  - slug: 18-llm1
+  - slug: 19-llm2
+  - slug: 20-llm3
+  - slug: 21-tbd
+  - slug: 22-guest3
+  - slug: 23-conclusion
+  - slug: 24-no-lec

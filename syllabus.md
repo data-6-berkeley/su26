@@ -65,7 +65,7 @@ During each lecture, there will be a few points at which we stop and ask you to 
 
 **Quick Checks are graded on completion, not correctness.** It’s not important to get these questions right on your first try – but it’s important to try them. You will be given time in lecture to answer them. These checks are how we measure attendance.
 
-You have **2 lecture drops**, meaning you can miss up to 2 lectures without penalty, after the first lecture. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected personal or family emergencies, sickness, etc.
+You have **2 lecture drops**, meaning you can miss up to 2 lectures without penalty, after the first lecture. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected personal or family emergencies, sickness, etc. When calculating grades, we will automatically drop the lowest two lecture attendances from your grade.
 
 ### Lab
 
@@ -73,14 +73,14 @@ Lab notebooks will give you an opportunity to apply the concepts you learn in le
 
 **60% of lab credit will be attendance-based. The remaining 40% of credit will be awarded for submitting the lab to Gradescope by the 11:59 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their GSI to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
 
-You have **1 lab drop** to use in the event of extenuating circumstances that prevent them from completing the assignment. To use a lab drop, you must message your TA at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that like lecture drops, lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending. For specific concerns related to your lab section, contact your TA.
+You have **1 lab drop** to use in the event of extenuating circumstances that prevent them from completing the assignment. ~~To use a lab drop, you must message your TA at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that like lecture drops, lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending.~~ [Update 7/31] When calculating grades, we will automatically drop your lowest lab score. For specific concerns related to your lab section, contact your TA.
 
 ### Readings
 
-Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Friday evenings and due **Thursday at 11:59PM**, the evening before discussion section.
+Readings are designed to complement the lecture content and prepare you for discussion in section. Readings will generally be lecture notes and, occasionally, external readings with a focus on ethical and social issues. Submit the weekly reading assignment on Gradescope for credit. Reading assignments will be released Friday evenings and due **Thursday at 11:59PM**, the evening before discussion section. [Update 7/31] You will have **1 reading drop**, meaning your lowest reading assignment will be automatically dropped from your grade.
 
 ### Discussion
-Each Friday (10AM - 12PM), we will have a two hour discussion section led by your [uGSI]({{site.url}}{{ site.baseurl }}/staff).
+Each Friday (10AM - 12PM), we will have a two hour discussion section led by your [uGSI]({{site.url}}{{ site.baseurl }}/staff) which is **mandatory to attend**.
 
 Discussions across the term will be separated into two "tracks". Social sciences and technical discussions.
 
@@ -126,9 +126,9 @@ Here's how we will calculate your final grade:
 | **Component** | **Weight** | **Notes** |
 | Surveys | 2.5% | 6 course surveys |
 | Lecture Attendance| 2.5% | 24 lectures, 2 drops |
-| Readings | 7.5% | 6 readings |
+| Readings | 7.5% | 6 readings, 1 drop |
 | Discussion Attendance | 2.5% |Weekly discussion section|
-| Lab | 10% | 10 labs with 1 drop |
+| Lab | 10% | 11 labs, 1 drop |
 | Homework | 20% |5 homework assignments, 4% each|
 | Projects | 20% | - Project 1 (8%) <br/> - Final Project (12%) |
 | Exams | 35% | - Quiz 1 (5%) <br/> - Quiz 2 (10%) <br/> - Final (20%)|
@@ -136,7 +136,7 @@ Here's how we will calculate your final grade:
 
 We will share information later in the semester regarding grade bins for letter grades. Please consult Berkeleytime for historical distributions of grade bins (our bins will most likely resemble those of the Fall 2025 semester)!
 
-Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a timely manner after the assignment’s due date. It is up to you to check the solutions and request a regrade request before the regrade deadline on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so again: please do not delay reviewing your work.
+Grades for Homeworks, Projects, and Labs will be posted on Gradescope within a timely manner after the assignment’s due date. It is up to you to check the solutions and request a regrade request before the regrade deadline on Gradescope (48 hour regrade window). Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so again: please do not delay reviewing your work.
 
 ### Submitting Assignments
 
@@ -147,8 +147,7 @@ We understand that the submission process is new for many students taking the co
 ### Late Submissions
 The deadline for all assignments in this course is 11:59 PM PT for programming assignments (lab, homework, project assignments) and reading assignments (Gradescope "quizzes"). Submissions after this time will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted. 
 
-*Exceptions:* Projects will be accepted up to 2 days (48 hours) late (with a 20% penalty). Labs have a 24 hour grace period, meaning you can submit the lab 24 hours late with no penalty to your grade. Lab submissions will not be accepted after the grace period.
-
+*Exceptions:* Lab, Homework, and Projects have a 24 hour grace period, meaning you can submit the assignment up to 24 hours late with _no penalty_ to your grade. Lab and Homework submissions will not be accepted after the grace period (24 hours from original deadline). Projects will be accepted up to 24 hours after the grace period (48 hours from original deadline), however any submission after the grace period will incur a 20% penalty.
 
 **Extensions**: We understand that life happens and want to provide you with the support you need. We don't want to penalize you because of circumstances that are out of your control. If you have an ongoing situation that prevents you from completing course content, please contact the course instructor and/or TA. This includes assignment extension requests, in which case you must notify us within 24 hours before the deadline. Only request an extension if you have used up all your assignment drops. As long as your request is within reason, there's a good chance of it being granted, in which case we will add the extension to your submission on Gradescope. Please note that unless there are extenuating circumstances, we will not approve extensions beyond 48 hours - this is to help you keep pace with the pace of summer courses and prevent assignments from piling up.
 

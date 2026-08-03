@@ -1,4 +1,4 @@
 ---
 published: true
-title: Guest Lecture
+title: No lecture! 
 ---
