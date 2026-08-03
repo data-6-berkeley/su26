@@ -2,5 +2,5 @@
 published: true
 title: Guest Lecture - Greg Niemeyer + Qualitative Coding
 files:
-    slides: https://docs.google.com/presentation/d/1mwPeIbsU9RoB2QN0P6tuTOX4TxwUAPQMIF_c-5F2VEI/edit?usp=sharing
+    slides: https://docs.google.com/presentation/d/1o_cqcgBPLeC-9OOJ2UvMf335YibJhVD61PxPa_EN3n0/edit?usp=sharing
 ---
