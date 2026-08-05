@@ -27,6 +27,8 @@ published: true
 
 * [Summer 2026 Quiz 2 Reference Sheet]({{ site.baseurl }}/exams/refsheets/su26-quiz2-refsheet.pdf)
 
+* [Summer 2026 Final Reference Sheet]({{ site.baseurl }}/exams/refsheets/su26-final-refsheet.pdf)
+
 ## Past Exams
 
 Exams from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` library and Data 6 curriculum has changed over time.
