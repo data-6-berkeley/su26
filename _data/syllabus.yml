@@ -62,6 +62,7 @@ extra_links_col3:
   - date: "2026-08-07"
     title: Reading 6 (due 8/13)
     label: reading
+    link: https://www.gradescope.com/courses/1331690/assignments/8360901
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
