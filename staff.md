@@ -4,6 +4,8 @@ title: "&#x1F9D1;&#x200D;&#x1F3EB; Staff"
 description: A listing of all the course staff members.
 nav_order: 4
 ---
+{: .warning }
+⚠️ This content is archived as of August 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
 
 # Staff
 
