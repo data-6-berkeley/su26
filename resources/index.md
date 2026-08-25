@@ -8,8 +8,6 @@ has_children: true
 layout: page
 nav_order: 10
 ---
-{: .warning }
-⚠️ This content is archived as of August 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
 
 
 # &#x1F4DA; Resources	

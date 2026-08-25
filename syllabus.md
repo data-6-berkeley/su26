@@ -5,8 +5,6 @@ nav_order: 2
 description: >-
     Course policies and information.
 ---
-{: .warning }
-⚠️ This content is archived as of August 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
 
 # Syllabus
 {:.no_toc}

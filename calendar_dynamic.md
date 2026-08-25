@@ -4,8 +4,6 @@ title: "&#x1F4C5; Calendar"
 description: Class schedule.
 nav_order: 3
 ---
-{: .warning }
-⚠️ This content is archived as of August 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
 
 # Calendar
 
